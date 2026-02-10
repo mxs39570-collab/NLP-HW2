@@ -1,7 +1,7 @@
 Name: Madhan Reddy Singireddy Patak
 Roll No: 700773957
 Course:  Natural Language Processing  
-Homework: 2
+Homework: 1
 
 This repository contains my work for Homework 1.
 
